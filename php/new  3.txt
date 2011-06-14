@@ -1,0 +1,4 @@
+/** i've got 3 tables - 
+linksTable - linkID, link
+tags - 
+
